@@ -1,5 +1,18 @@
 https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28
 # Data Preprocessing Project – Imbalanced Classes Problem
+https://github.com/pb111/Data-Preprocessing-Project-Imbalanced-Classes-Problem
+
+Please follow the links below to learn more about imbalanced classes:-
+
+https://www.jeremyjordan.me/imbalanced-data
+
+https://blog.dominodatalab.com/imbalanced-datasets
+
+https://elitedatascience.com/imbalanced-classes
+
+https://www.kaggle.com/rafjaa/resampling-strategies-for-imbalanced-datasets
+
+https://www.svds.com/learning-imbalanced-classes
 
 
 Imbalanced classes is one of the major problems in machine learning. In this data preprocessing project, I discuss the imbalanced classes problem. Also, I discuss various approaches to deal with this imbalanced classes problem. 
